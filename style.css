@@ -3,6 +3,21 @@ body{
     background-color: rgb(133, 133, 245);
     font-family: 'Inter';
     font-size: 16px;
-    text-align: center;
     color: whitesmoke;
+}
+.titulo{
+    text-align: center;
+}
+
+.Nome{
+    font-family: 'Inter';
+    text-align: left;
+    color: whitesmoke;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: rgb(0,0,0);
+}
+
+.projetos{
+    font-family: 'Inter';
+    text-align: center;
 }
